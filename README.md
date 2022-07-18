@@ -14,5 +14,5 @@
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="160" width="140" style="border-radius:50px;" src="https://github.com/SheillaViana/avatar/blob/main/meu%20avatar.png"
+  <img align="right" alt="Rafa-pic" height="160" width="140" style="border-radius:50px;" src="https://github.com/SheillaViana/avatar/blob/main/meu%20avatar.png">
 </div>
