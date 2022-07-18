@@ -20,5 +20,5 @@
   ##
   
  <div>
-  ![Snake animation](https://github.com/sheillaviana/sheillaviana/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/sheillaviana/sheillaviana/action/output/github-contribution-grid-snake.svg)
 >/div>
