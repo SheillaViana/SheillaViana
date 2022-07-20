@@ -2,7 +2,7 @@
 
 
 - 📐 Sou estudante de Arquitetura e Urbanismo
-- 💻 Estudante de programação no projeto Elas na Tech da JA Brasil
+- 💻 Bootcamp e Desenvolvimento Web no projeto Elas na Tech da JA Brasil e CCR
 - 👩🏾 Pronouns: ela/ dela
 
 <div align="center">
